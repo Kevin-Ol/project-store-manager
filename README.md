@@ -5,7 +5,7 @@ Projeto feito como critério avaliativo na escola de programação **Trybe**.
 O projeto é uma API criada utilizando Node.JS juntamente com o pacote Express.JS para a criação das rotas, e a biblioteca Joi para validação dos dados enviados. 
 Trata-se de uma API de estoque e vendas, capaz de criar, visualizar, alterar ou deletar produtos em estoque ou vendas realizadas, onde cada alteração de venda 
 reflete no valor do estoque dos produtos, com os dados armazenados no banco de dados MongoDB. A API foi desenvolvida com a prática de TDD e testes unitários. 
-Neste projeto aprendi como criar API em arquitetura MSC e como escrever seus testes utilizando as bibliotecas Mocha, Chain e Sinon.
+Neste projeto aprendi como criar uma API RESTful em arquitetura MSC e como escrever seus testes utilizando as bibliotecas Mocha, Chain e Sinon.
 
 ## Instruções para reproduzir o projeto
 
