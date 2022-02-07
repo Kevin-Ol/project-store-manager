@@ -29,9 +29,6 @@ Neste projeto aprendi como criar uma API RESTful em arquitetura MSC e como escre
 2. Para executar os testes unitários
   * `npm run test:unit`
   
-3. Para executar os testes de integração
-  * `npm test`
-  
 ---
 
 ## Rotas
